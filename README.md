@@ -4,7 +4,7 @@ Developed a cloud-based weather forecast system using Flask, HTML/CSS/JavaScript
 and Integrated the OpenWeatherMap API to fetch live weather updates, ensuring accuracy and timely information, 
 and streamlined deployment with Docker for efficient containerization and scalability
 
-# PROJECT SETUP
+## PROJECT SETUP
 Getting API_KEY from RapidAPI :
 1. Open RapidAPI and search for WeatherAPI.com.
 2. Now click on Subscribe to Test and Subscribe to the Basic Plan which is FREE
